@@ -165,5 +165,5 @@ int main(int argc, char **argv) {
     printf("\n");
     mpz_out_str(stdout, 10, m2);
 
-    exit(0);
+    return 0;
 }
